@@ -1,0 +1,13 @@
+{
+  "name": "enllave-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp Enllave usando Venom",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^5.1.1",
+    "express": "^4.18.2"
+  }
+}
