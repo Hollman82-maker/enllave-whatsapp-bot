@@ -10,6 +10,7 @@ const LOG_FILE = './logs.json';
 let seenUsers = new Set();
 
 // Ruta básica para verificar el bot en Railway
+// Forzar nuevo deploy en Railway
 app.get('/', (req, res) => {
   res.send('✅ Bot de Enllave activo en Railway');
 });
