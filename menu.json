@@ -1,0 +1,63 @@
+
+{
+  "menu": "📍 Bienvenido a Enllave\n1. Uniformes Deportivos\n2. Sublimación y Corte\n3. DTF, Estampados y Apliques\n4. Marquillas, cintas, lanyards\n5. Positivos para Screen\n6. Papelería comercial\n7. Avisos y gran formato\n8. PQR\n9. Validación de Pago\n10. Área administrativa\n11. Trabajos en proceso\n12. Trabaja con nosotros\n0. Volver al menú principal...",
+  "opciones": {
+    "1": "Uniformes Deportivos",
+    "2": "Sublimación y Corte",
+    "3": "DTF, Estampados y Apliques",
+    "4": "Marquillas, cintas, lanyards",
+    "5": "Positivos para Screen",
+    "6": "Papelería comercial",
+    "7": "Avisos y gran formato",
+    "8": "PQR",
+    "9": "Validación de Pago",
+    "10": "Área administrativa",
+    "11": "Trabajos en proceso",
+    "12": "Trabaja con nosotros"
+  },
+  "respuestas": {
+    "1": [
+      { "nombre": "Ana", "link": "https://wa.me/573224146545" },
+      { "nombre": "Cristian", "link": "https://wa.me/573227553627" }
+    ],
+    "2": [
+      { "nombre": "Ana", "link": "https://wa.me/573224146545" },
+      { "nombre": "Cristian", "link": "https://wa.me/573227553627" }
+    ],
+    "3": [
+      { "nombre": "Yessica", "link": "https://wa.me/573243176639" }
+    ],
+    "4": [
+      { "nombre": "Ana", "link": "https://wa.me/573224146545" },
+      { "nombre": "Cristian", "link": "https://wa.me/573227553627" }
+    ],
+    "5": [
+      { "nombre": "Raiza", "link": "https://wa.me/573102052293" }
+    ],
+    "6": [
+      { "nombre": "Carolina", "link": "https://wa.me/573202294013" },
+      { "nombre": "Raiza", "link": "https://wa.me/573102051293" }
+    ],
+    "7": [
+      { "nombre": "Carolina", "link": "https://wa.me/573202294013" },
+      { "nombre": "Raiza", "link": "https://wa.me/573102051293" }
+    ],
+    "8": [
+      { "nombre": "Sofia", "link": "https://wa.me/573227553628" },
+      { "nombre": "Digney", "link": "https://wa.me/573005795659" }
+    ],
+    "9": [
+      { "nombre": "Michell", "link": "https://wa.me/573163304670" }
+    ],
+    "10": [
+      { "nombre": "Sofia", "link": "https://wa.me/573227553628" }
+    ],
+    "11": [
+      { "nombre": "Luisa", "link": "https://wa.me/573058783712" }
+    ],
+    "12": [
+      { "nombre": "Sofia", "link": "https://wa.me/573227553628" }
+    ],
+    "0": "Volviendo al menú principal..."
+  }
+}
